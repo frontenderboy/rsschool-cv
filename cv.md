@@ -35,3 +35,31 @@ I have critical thinking and analytical skills. I adhere to strategic training a
 I love programming, so front-end development is perfect for me. I do not want to stop at the achieved goals, but move forward towards the dream of changing the world!  
 
 ---
+
+## Courses and Projects:
+1. [Result School](https://result.school/) HTML & CSS Basic (completed)
+    - [CV Project](https://frontenderboy.github.io/CV/)
+
+2. [Result School](https://result.school/) Marathon: 5 projects in JavaScript (completed)
+
+    * `1 days:` [Gallery](https://frontenderboy.github.io/Gallery/)
+    * `2 days:` [Drag & Drop](https://frontenderboy.github.io/Drag-Drop/)
+    * `3 days:` [Slider](https://frontenderboy.github.io/Slider/)
+    * `4 days:` [Mini-Game](https://frontenderboy.github.io/Mini-Game/)
+    * `5 days:` [AIM Game](https://frontenderboy.github.io/AIM-Game/)
+
+3. [Code Basics](https://code-basics.com/ru) 
+
+    * [HTML](https://code-basics.com/ru/languages/html) (completed)
+    * [CSS](https://code-basics.com/ru/languages/css) (completed)
+    * [JS](https://code-basics.com/ru/languages/javascript) (in progress)
+
+4. [WebReference](https://webref.ru/)
+    * `Internet`
+    * `HTML`
+    * `CSS Basics`
+
+4. [Itlogia](https://itlogia.ru/) Intensive Course for 7 days (completed)
+    - [Project](https://frontenderboy.github.io/cars-hw/) 
+
+---
