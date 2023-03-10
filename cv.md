@@ -18,3 +18,13 @@
 - Addres: Wroclaw, Poland 
 
 ---
+
+## Hard Skills: 
+- HTML5
+- CSS3
+- BEM methodology
+- Responsive Design
+- Git (Basics)
+- Figma 
+
+---
