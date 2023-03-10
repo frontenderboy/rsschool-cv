@@ -28,3 +28,10 @@
 - Figma 
 
 ---
+
+## About Me and my Soft Skills:
+I have critical thinking and analytical skills. I adhere to strategic training and always follow through. I easily learn something new. I approach the matter with a cool head and apply all my positive qualities to solve a particular problem or task. I consider myself a creative person, a creative and analytically capable candidate.  
+
+I love programming, so front-end development is perfect for me. I do not want to stop at the achieved goals, but move forward towards the dream of changing the world!  
+
+---
