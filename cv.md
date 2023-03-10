@@ -63,3 +63,8 @@ I love programming, so front-end development is perfect for me. I do not want to
     - [Project](https://frontenderboy.github.io/cars-hw/) 
 
 ---
+
+## Languages:
+- Russian (native)
+- Polish (B2)
+- English (A2)
